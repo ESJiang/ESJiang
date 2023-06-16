@@ -1,12 +1,9 @@
 <h1 align='center'>Hi there 👋</h1>
-
 <p align='center'>
-<em><strong> My name is Fangwei Jiang passionating about cyber security, web design, and software development</storng></em>
-<br />
-<i>
+<i> My name is Fangwei Jiang passionating about cyber security, web design, and software development <br />
     🌱 I’m currently learning: Web Development<br />
     👯 I’m looking to collaborate on: Full stack projects<br />
-    😄 Pronouns: He/Him<br />
+    😄 Pronouns: He/Him <br />
 </i>
 <br />
 
@@ -29,11 +26,12 @@
 </p>
 
 ## 🧑🏻‍💻 My Favorite Programming Languages
-[![Python](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python)](https://github.com/ESJiang)
+[![Python](https://img.shields.io/badge/python-1338BD?style=for-the-badge&logo=python)](https://github.com/ESJiang)
 [![Java](https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=openjdk)](https://github.com/ESJiang)
 [![TypeScript](https://img.shields.io/badge/typescript-lavender?style=for-the-badge&logo=typescript)](https://github.com/ESJiang)
+[![Node.js](https://img.shields.io/badge/nodejs-Irish%20Green?style=for-the-badge&logo=node.js)](https://github.com/ESJiang)
 [![YAML](https://img.shields.io/badge/yaml-purple?style=for-the-badge&logo=yaml)](https://github.com/ESJiang)
-[![XML](https://img.shields.io/badge/xml-maroon?style=for-the-badge&logo=xml)](https://github.com/ESJiang)
+[![Perl](https://img.shields.io/badge/perl-B56727?style=for-the-badge&logo=perl)](https://github.com/ESJiang)
 
 <details>
 <p align="center">
