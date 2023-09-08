@@ -87,7 +87,7 @@ Sublime Text             3 hrs 48 mins       ██░░░░░░░░░�
     <thead align="center">
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/fangweij/" title="linkedin.com/in/fangweij">
+                <a href="https://www.linkedin.com/in/fangweij" title="linkedin.com/in/fangweij">
                     <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/0077B5" width="35px">
                 </a>
             </th>
@@ -104,6 +104,11 @@ Sublime Text             3 hrs 48 mins       ██░░░░░░░░░�
             <th>
                 <a href="https://twitter.com/T2n2lSv" title="twitter.com/fangweij">
                     <img loading="lazy" alt="twitter icon" src="https://cdn.simpleicons.org/twitter/1DA1F2" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.instagram.com/emberspirit2018" title="instagram/fangweij">
+                    <img loading="lazy" alt="twitter icon" src="https://cdn.simpleicons.org/instagram/DE03D9" width="35px">
                 </a>
             </th>
         </tr>
