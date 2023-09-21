@@ -62,16 +62,16 @@ Sublime Text             1 hr 51 mins        █░░░░░░░░░░�
 <details>
 <p align="center">
   <a href="https://github.com/ESJiang">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESJiang&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESJiang&theme=transparent" alt="profile-details" />
   </a>
   <a href="https://github.com/ESJiang">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ESJiang&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ESJiang" alt="cards" />
   </a>
   <a href="https://github.com/ESJiang">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ESJiang&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ESJiang&theme=transparent" alt="summary" />
   </a>
   <a href="https://github.com/ESJiang">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESJiang&layout=compact&langs_count=8&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESJiang&layout=compact&langs_count=8&theme=transparent" alt="top-langs" />
   </a>
 </p>
 </details>
@@ -88,27 +88,27 @@ Sublime Text             1 hr 51 mins        █░░░░░░░░░░�
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/fangweij" title="linkedin.com/in/fangweij">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/0077B5" width="35px">
+                    <img loading="lazy" alt="LinkedIn icon" src="https://cdn.simpleicons.org/linkedin/0077B5" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:fangweij2018@gmail.com" title="fangweij's email">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                    <img loading="lazy" alt="Gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.facebook.com/fangweij" title="facebook.com/fangweij">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/0D8FF1" width="35px">
+                    <img loading="lazy" alt="Facebook icon" src="https://cdn.simpleicons.org/facebook/0D8FF1" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://twitter.com/T2n2lSv" title="twitter.com/fangweij">
-                    <img loading="lazy" alt="twitter icon" src="https://cdn.simpleicons.org/twitter/1DA1F2" width="35px">
+                    <img loading="lazy" alt="Twitter icon" src="https://cdn.simpleicons.org/twitter/1DA1F2" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.instagram.com/emberspirit2018" title="instagram/fangweij">
-                    <img loading="lazy" alt="instagram icon" src="https://cdn.simpleicons.org/instagram/DE03D9" width="35px">
+                    <img loading="lazy" alt="Instagram icon" src="https://cdn.simpleicons.org/instagram/DE03D9" width="35px">
                 </a>
             </th>
         </tr>
