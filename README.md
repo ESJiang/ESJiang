@@ -108,7 +108,7 @@ Sublime Text             1 hr 51 mins        █░░░░░░░░░░�
             </th>
             <th>
                 <a href="https://www.instagram.com/emberspirit2018" title="instagram/fangweij">
-                    <img loading="lazy" alt="twitter icon" src="https://cdn.simpleicons.org/instagram/DE03D9" width="35px">
+                    <img loading="lazy" alt="instagram icon" src="https://cdn.simpleicons.org/instagram/DE03D9" width="35px">
                 </a>
             </th>
         </tr>
