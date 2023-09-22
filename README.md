@@ -65,7 +65,7 @@ Sublime Text             1 hr 51 mins        █░░░░░░░░░░�
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ESJiang&theme=transparent" alt="profile-details" />
   </a>
   <a href="https://github.com/ESJiang">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ESJiang&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="cards" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ESJiang&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=C21903&fire=EB5454" alt="cards" />
   </a>
   <a href="https://github.com/ESJiang">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ESJiang&theme=transparent" alt="summary" />
