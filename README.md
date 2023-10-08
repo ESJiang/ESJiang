@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋</h1>
 <p align='center'>
-<i> My name is Fangwei Jiang passionating about cyber security, web design, and software development <br />
+<i> My name is Arthur Jiang, passionating about cyber security, software development, and web development<br />
     🌱 I’m currently learning: Web Development<br />
     👯 I’m looking to collaborate on: Full stack projects<br />
     😄 Pronouns: He/Him <br />
