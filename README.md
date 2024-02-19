@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there 👋</h1>
 <p align='center'>
 <i> My name is Fangwei Jiang, passionating about cyber security, software development, and web development<br />
-    🌱 I’m currently learning: Web Development<br />
+    🌱 I’m currently working as an Associate Security Analyst<br />
     👯 I’m looking to collaborate on: Full stack projects<br />
     😄 Pronouns: He/Him <br />
 </i>
