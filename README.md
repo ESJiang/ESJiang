@@ -74,6 +74,11 @@ Sublime Text             10 mins             ░░░░░░░░░░░�
   <a href="https://github.com/ESJiang">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESJiang&layout=compact&langs_count=8&theme=transparent" alt="top-langs" />
   </a>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+      <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </p>
 </details>
 
