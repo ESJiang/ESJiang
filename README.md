@@ -60,12 +60,8 @@ Sublime Text             10 mins             ░░░░░░░░░░░�
  Last Updated on 06/03/2024 06:14:05 UTC
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <h2>My Github Contributions</h2>
-  <br>
-   <img alt="contribution graph" src="https://github.com/ESJiang/ESJiang/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <br/><br/><br/>
-</div>
+## 🔗 My Contribution Graph
+![snake gif](https://github.com/ESJiang/ESJiang/blob/output/github-contribution-grid-snake-dark.svg)
 
 <details>
 <p align="center">
