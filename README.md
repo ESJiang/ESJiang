@@ -1,9 +1,10 @@
-<h1 align='center'>Hi there 👋</h1>
 <p align='center'>
-<i> My name is Fangwei Jiang, passionating about cyber security, software development, and web development<br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dank+Mono&weight=500&size=30&duration=3000&pause=500&color=23D677D4&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Fangwei+Jiang" alt="Typing SVG" /></a>
+<p align='center'>
+<i> I am passionating about cyber security, software development, and web development<br />
     🌱 I’m currently working as an Associate Security Analyst<br />
     👯 I’m looking to collaborate on: Full stack projects<br />
-    😄 Pronouns: He/Him <br />
+    😄 Pronouns: He/Him
 </i>
 <br />
 
