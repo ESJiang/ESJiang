@@ -3,7 +3,6 @@
 <p align='center'>
 <i> I am passionating about cyber security, software development, and web development<br />
     🌱 I’m currently working as a SOC Analyst<br />
-    👯 I’m looking to collaborate on: Full stack projects<br />
     😄 Pronouns: He/Him
 </i>
 <br />
