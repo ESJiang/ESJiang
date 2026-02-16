@@ -34,7 +34,7 @@
 [![Perl](https://img.shields.io/badge/perl-B56727?style=for-the-badge&logo=perl)](https://github.com/ESJiang)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C685%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C685%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,18 +44,18 @@
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-Text                     2 hrs 49 mins       ███████████████████████░░   91.77 % 
-JavaScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Text                     35 mins             █████████████████░░░░░░░░   67.36 % 
+JavaScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-Sublime Text             3 hrs 1 min         ████████████████████████░   97.83 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Sublime Text             46 mins             ██████████████████████░░░   88.83 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
 
- Last Updated on 15/02/2026 06:44:22 UTC
+ Last Updated on 16/02/2026 06:57:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
