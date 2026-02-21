@@ -44,19 +44,19 @@
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-Text                     3 hrs 23 mins       ██████████████████████░░░   88.81 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Kusto                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Text                     3 hrs 9 mins        ██████████████████████░░░   89.69 % 
+Kusto                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Sublime Text             3 hrs 23 mins       ██████████████████████░░░   89.00 % 
-VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Sublime Text             2 hrs 58 mins       █████████████████████░░░░   84.55 % 
+VS Code                  32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 ```
 
 
- Last Updated on 20/02/2026 06:47:53 UTC
+ Last Updated on 21/02/2026 06:35:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
