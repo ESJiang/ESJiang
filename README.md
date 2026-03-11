@@ -44,18 +44,17 @@
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-JSON                     26 mins             ████████████░░░░░░░░░░░░░   48.65 % 
-Text                     16 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Kusto                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JSON                     25 mins             █████████████░░░░░░░░░░░░   53.00 % 
+Text                     13 mins             ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Kusto                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
 
 🔥 Editors: 
-VS Code                  44 mins             ████████████████████░░░░░   81.60 % 
-Sublime Text             10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+VS Code                  41 mins             ██████████████████████░░░   86.01 % 
+Sublime Text             6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
 
- Last Updated on 10/03/2026 06:41:29 UTC
+ Last Updated on 11/03/2026 06:44:20 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
