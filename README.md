@@ -44,14 +44,16 @@
 🕑︎ Time Zone: Australia/Brisbane
 
 💬 Programming Languages: 
-Text                     1 hr 58 mins        █████████████████████████   100.00 % 
+Text                     13 mins             █████████████████████████   98.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 58 mins        █████████████████████████   100.00 % 
+Sublime Text             13 mins             █████████████████████████   98.06 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
- Last Updated on 19/04/2026 07:11:46 UTC
+ Last Updated on 20/04/2026 07:57:32 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
