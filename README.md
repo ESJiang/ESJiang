@@ -36,8 +36,20 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 21/05/2026 09:27:43 UTC
+```text
+🕑︎ Time Zone: Australia/Melbourne
+
+💬 Programming Languages: 
+Text                     2 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 22/05/2026 08:53:33 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
