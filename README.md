@@ -44,14 +44,14 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kusto                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 08:22:02 UTC
+ Last Updated on 31/05/2026 08:38:35 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
