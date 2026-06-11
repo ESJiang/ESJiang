@@ -44,18 +44,18 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-SQL                      1 hr 7 mins         ███████████████████░░░░░░   76.53 % 
-Kusto                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+SQL                      1 hr 7 mins         ███████████████████░░░░░░   76.65 % 
+Kusto                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
 VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 09:45:27 UTC
+ Last Updated on 11/06/2026 10:14:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
