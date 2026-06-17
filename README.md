@@ -44,18 +44,19 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-SQL                      1 hr 7 mins         ████████████████░░░░░░░░░   64.16 % 
-Kusto                    32 mins             ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+SQL                      19 mins             ██████████░░░░░░░░░░░░░░░   39.23 % 
+Kusto                    17 mins             █████████░░░░░░░░░░░░░░░░   36.47 % 
+Text                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  38 mins             ████████████████████░░░░░   78.04 % 
+Sublime Text             10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
 ```
 
 
- Last Updated on 16/06/2026 11:00:15 UTC
+ Last Updated on 17/06/2026 10:31:31 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
