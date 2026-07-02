@@ -44,17 +44,16 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Kusto                    15 mins             ███████████████░░░░░░░░░░   61.13 % 
-Text                     9 mins              ██████████░░░░░░░░░░░░░░░   38.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Kusto                    15 mins             ███████████████░░░░░░░░░░   61.23 % 
+Text                     9 mins              ██████████░░░░░░░░░░░░░░░   38.77 % 
 
 🔥 Editors: 
-VS Code                  15 mins             ███████████████░░░░░░░░░░   61.44 % 
-Sublime Text             9 mins              ██████████░░░░░░░░░░░░░░░   38.56 % 
+VS Code                  15 mins             ███████████████░░░░░░░░░░   61.38 % 
+Sublime Text             9 mins              ██████████░░░░░░░░░░░░░░░   38.62 % 
 ```
 
 
- Last Updated on 01/07/2026 09:35:25 UTC
+ Last Updated on 02/07/2026 08:46:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
