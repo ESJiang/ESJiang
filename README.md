@@ -34,6 +34,8 @@
 [![Perl](https://img.shields.io/badge/perl-B56727?style=for-the-badge&logo=perl)](https://github.com/ESJiang)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C714%20hrs%2053%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -53,7 +55,7 @@ VS Code                  3 hrs 7 mins        ███████████�
 ```
 
 
- Last Updated on 24/07/2026 08:14:26 UTC
+ Last Updated on 25/07/2026 07:56:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
