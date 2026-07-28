@@ -34,7 +34,9 @@
 [![Perl](https://img.shields.io/badge/perl-B56727?style=for-the-badge&logo=perl)](https://github.com/ESJiang)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,19 +46,25 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    3 hrs 31 mins       ██████████████████████░░░   89.77 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Kusto                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    3 hrs 31 mins       ██████████████████████░░░   89.93 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Kusto                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 44 mins       ████████████████████████░   95.02 % 
-Sublime Text             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+VS Code                  3 hrs 43 mins       ████████████████████████░   95.01 % 
+Sublime Text             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 09:38:41 UTC
+ Last Updated on 28/07/2026 08:23:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
