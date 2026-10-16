@@ -34,7 +34,7 @@
 [![Perl](https://img.shields.io/badge/perl-B56727?style=for-the-badge&logo=perl)](https://github.com/ESJiang)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C369%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
@@ -46,15 +46,15 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Other                    2 hrs 43 mins       ██████████████████░░░░░░░   71.11 % 
-Text                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Kusto                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    2 hrs 58 mins       ███████████████░░░░░░░░░░   61.08 % 
+Text                     1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Kusto                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 12 mins       █████████████████████░░░░   83.67 % 
-Sublime Text             37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+VS Code                  3 hrs 44 mins       ███████████████████░░░░░░   76.58 % 
+Sublime Text             1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +64,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2026 10:41:23 UTC
+ Last Updated on 16/10/2026 10:28:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
