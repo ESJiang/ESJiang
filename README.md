@@ -46,14 +46,13 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Text                     1 hr 11 mins        ███████████░░░░░░░░░░░░░░   44.61 % 
-Other                    45 mins             ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Kusto                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Other                    29 mins             ██████████░░░░░░░░░░░░░░░   40.05 % 
+JSON                     22 mins             ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Text                     21 mins             ███████░░░░░░░░░░░░░░░░░░   29.23 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████░░░░░░░░░░░░   51.44 % 
-Sublime Text             1 hr 18 mins        ████████████░░░░░░░░░░░░░   48.56 % 
+VS Code                  46 mins             ████████████████░░░░░░░░░   62.18 % 
+Sublime Text             27 mins             █████████░░░░░░░░░░░░░░░░   37.82 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +62,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/10/2026 10:58:54 UTC
+ Last Updated on 23/10/2026 10:51:12 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
