@@ -97,12 +97,12 @@ No AI Coding Activity Tracked This Week
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/fangweij" title="linkedin.com/in/fangweij">
-                    <img loading="lazy" alt="LinkedIn icon" src="https://cdn.simpleicons.org/linkedin/0077B5" width="35px">
+                    <img loading="lazy" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:fangweij2018@gmail.com" title="fangweij's email">
-                    <img loading="lazy" alt="Gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                    <img loading="lazy" alt="Gmail icon" src="https://cdn.simpleicons.org/gmail/EB008" width="35px">
                 </a>
             </th>
             <th>
@@ -112,7 +112,7 @@ No AI Coding Activity Tracked This Week
             </th>
             <th>
                 <a href="https://twitter.com/T2n2lSv" title="twitter.com/fangweij">
-                    <img loading="lazy" alt="Twitter icon" src="https://cdn.simpleicons.org/twitter/1DA1F2" width="35px">
+                    <img loading="lazy" alt="Twitter icon" src="https://skillicons.dev/icons?i=twitter" width="35px">
                 </a>
             </th>
             <th>
