@@ -96,27 +96,27 @@ No AI Coding Activity Tracked This Week
     <thead align="center">
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/fangweij" title="linkedin.com/in/fangweij">
+                <a href="https://www.linkedin.com/in/fangweij" title="linkedin.com/in/fangweij" target="_blank">
                     <img loading="lazy" alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" width="35px">
                 </a>
             </th>
             <th>
-                <a href="mailto:fangweij2018@gmail.com" title="fangweij's email">
+                <a href="mailto:fangweij2018@gmail.com" title="fangweij's email" target="_blank">
                     <img loading="lazy" alt="Gmail icon" src="https://cdn.simpleicons.org/gmail/EB008" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.facebook.com/fangweij" title="facebook.com/fangweij">
+                <a href="https://www.facebook.com/fangweij" title="facebook.com/fangweij" target="_blank">
                     <img loading="lazy" alt="Facebook icon" src="https://cdn.simpleicons.org/facebook/0D8FF1" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://twitter.com/T2n2lSv" title="twitter.com/fangweij">
+                <a href="https://twitter.com/T2n2lSv" title="twitter.com/fangweij" target="_blank">
                     <img loading="lazy" alt="Twitter icon" src="https://skillicons.dev/icons?i=twitter" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.instagram.com/emberspirit2018" title="instagram/fangweij">
+                <a href="https://www.instagram.com/emberspirit2018" title="instagram/fangweij" target="_blank">
                     <img loading="lazy" alt="Instagram icon" src="https://cdn.simpleicons.org/instagram/DE03D9" width="35px">
                 </a>
             </th>
