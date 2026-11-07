@@ -46,14 +46,14 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-PowerShell               18 mins             ████████████░░░░░░░░░░░░░   46.97 % 
-PostScript               13 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+PowerShell               18 mins             █████████████░░░░░░░░░░░░   53.28 % 
+PostScript               13 mins             ██████████░░░░░░░░░░░░░░░   39.52 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -63,7 +63,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/11/2026 13:34:29 UTC
+ Last Updated on 07/11/2026 12:14:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
