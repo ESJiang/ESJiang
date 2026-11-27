@@ -46,8 +46,7 @@
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-JSON                     0 secs              ███████████████░░░░░░░░░░   58.50 % 
-Other                    0 secs              ██████████░░░░░░░░░░░░░░░   41.50 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
@@ -60,7 +59,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/11/2026 16:10:10 UTC
+ Last Updated on 27/11/2026 15:58:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🔗 My Contribution Graph
